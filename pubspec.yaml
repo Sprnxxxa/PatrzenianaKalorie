@@ -1,4 +1,4 @@
-name: sport_calculator
+name: Kaloryczny_Kalkulator
 description: Prosta aplikacja do obliczania kalorii
 publish_to: "none"
 
@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_lints: ^6.0.0
 
 dev_dependencies:
   flutter_test:
